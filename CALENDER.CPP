@@ -26,6 +26,7 @@ getkey()
     return (o.h.ah);
 }
 
+
 int totalday(int, int);
 int month(int, int);
 int year(int);
